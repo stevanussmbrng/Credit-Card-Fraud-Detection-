@@ -62,7 +62,7 @@ Interpretasi
 ### _Exploratory Data Analysis_ (EDA)
 #### _Univariate EDA_
 
-![Univariate repeat_retailer](https://drive.google.com/uc?export=view&id=1abcdEFGhij)
+![Univariate repeat_retailer](gambar/univariate_repeat_reatiler.png)
 
 ## Data Preparation
 
