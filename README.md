@@ -62,7 +62,7 @@ Interpretasi
 ### _Exploratory Data Analysis_ (EDA)
 #### _Univariate EDA_
 
-![Univariate repeat_retailer](gambar/univariate_repeat_reatiler.png)
+![Univariate repeat_retailer]([gambar/univariate_repeat_reatiler.png](https://github.com/stevanussmbrng/Credit-Card-Fraud-Detection-/blob/main/gambar/univariate_repeat_reatiler.png))
 
 ## Data Preparation
 
